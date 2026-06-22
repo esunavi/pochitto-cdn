@@ -1,0 +1,22 @@
+{
+  "weather": "https://weather.yahoo.co.jp/weather/",
+  "news": "https://news.yahoo.co.jp/",
+  "transit": "https://transit.yahoo.co.jp",
+  "hospital": "https://byoinnavi.jp",
+  "dictionary": "https://kotobank.jp/",
+  "health": "https://www.jpm1960.org/kawara/",
+  "tyojyu": "https://www.tyojyu.or.jp/net/",
+  "chirashi": "https://tokubai.co.jp/",
+  "recipe": "https://www.mizkan.co.jp/ouchirecipe/",
+  "tv": "https://bangumi.org/",
+  "zipcode": "https://www.post.japanpost.jp/zipcode/",
+  "medicine": "https://www.qlife.jp/meds/",
+  "radio": "https://www.nhk.or.jp/radio/",
+  "restaurant": "https://tabelog.com/",
+  "books": "https://aozora.binb.jp/",
+  "hazard": "https://bosai.yahoo.co.jp/sp-bosai/",
+  "map": "https://www.google.com/maps/",
+  "amazon": "https://www.amazon.co.jp",
+  "rakuten": "https://www.rakuten.co.jp",
+  "supermarket": "https://shop.aeon.com/netsuper/"
+}
